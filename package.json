@@ -1,0 +1,22 @@
+{
+  "name": "nim",
+  "version": "1.0.0",
+  "description": "## Rules of Nim",
+  "main": "gameEngine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmsakamoto/nim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmsakamoto/nim/issues"
+  },
+  "homepage": "https://github.com/dmsakamoto/nim#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
