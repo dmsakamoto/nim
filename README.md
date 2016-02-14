@@ -1,5 +1,13 @@
 # nim
 
+## Install instructions
+
+`npm install`
+
+Webpack should run as a postinstall. If not, `webpack`
+
+Open `index.html`
+
 ## Rules of Nim
 
 "Nim" is a two-player game played with sticks. The sticks are divided into piles.
